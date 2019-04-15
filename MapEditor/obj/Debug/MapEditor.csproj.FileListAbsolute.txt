@@ -1,0 +1,32 @@
+C:\Users\Hoai Dung\Desktop\Đồ Án NMPT Game\MapEditor\MapEditor\bin\Debug\MapEditor.exe.config
+C:\Users\Hoai Dung\Desktop\Đồ Án NMPT Game\MapEditor\MapEditor\obj\Debug\MapEditor.csprojResolveAssemblyReference.cache
+C:\Users\Hoai Dung\Desktop\Đồ Án NMPT Game\MapEditor\MapEditor\obj\Debug\SplitTools.frmCreateMap.resources
+C:\Users\Hoai Dung\Desktop\Đồ Án NMPT Game\MapEditor\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+C:\Users\Hoai Dung\Desktop\Đồ Án NMPT Game\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.Cache
+C:\Users\Hoai Dung\Desktop\Đồ Án NMPT Game\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+C:\Users\Hoai Dung\Desktop\Đồ Án NMPT Game\MapEditor\MapEditor\bin\Debug\MapEditor.pdb
+C:\Users\Hoai Dung\Desktop\Đồ Án NMPT Game\MapEditor\MapEditor\obj\Debug\MapEditor.exe
+C:\Users\Hoai Dung\Desktop\Đồ Án NMPT Game\MapEditor\MapEditor\obj\Debug\MapEditor.pdb
+C:\Users\Hoai Dung\Desktop\Đồ Án NMPT Game\MapEditor\MapEditor\obj\Debug\SplitTools.frmMapEditor.resources
+D:\Data cũ\Tile-Map-editor_2\Tile Map Editor\MapEditor\MapEditor\bin\Debug\MapEditor.exe.config
+D:\Data cũ\Tile-Map-editor_2\Tile Map Editor\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+D:\Data cũ\Tile-Map-editor_2\Tile Map Editor\MapEditor\MapEditor\bin\Debug\MapEditor.pdb
+D:\Data cũ\Tile-Map-editor_2\Tile Map Editor\MapEditor\MapEditor\obj\Debug\MapEditor.csprojAssemblyReference.cache
+D:\Data cũ\Tile-Map-editor_2\Tile Map Editor\MapEditor\MapEditor\obj\Debug\SplitTools.frmCreateMap.resources
+D:\Data cũ\Tile-Map-editor_2\Tile Map Editor\MapEditor\MapEditor\obj\Debug\SplitTools.frmMapEditor.resources
+D:\Data cũ\Tile-Map-editor_2\Tile Map Editor\MapEditor\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+D:\Data cũ\Tile-Map-editor_2\Tile Map Editor\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.cache
+D:\Data cũ\Tile-Map-editor_2\Tile Map Editor\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.CoreCompileInputs.cache
+D:\Data cũ\Tile-Map-editor_2\Tile Map Editor\MapEditor\MapEditor\obj\Debug\MapEditor.exe
+D:\Data cũ\Tile-Map-editor_2\Tile Map Editor\MapEditor\MapEditor\obj\Debug\MapEditor.pdb
+D:\MapEditor\MapEditor\bin\Debug\MapEditor.exe.config
+D:\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+D:\MapEditor\MapEditor\bin\Debug\MapEditor.pdb
+D:\MapEditor\MapEditor\obj\Debug\MapEditor.csprojAssemblyReference.cache
+D:\MapEditor\MapEditor\obj\Debug\SplitTools.frmCreateMap.resources
+D:\MapEditor\MapEditor\obj\Debug\SplitTools.frmMapEditor.resources
+D:\MapEditor\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+D:\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.cache
+D:\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.CoreCompileInputs.cache
+D:\MapEditor\MapEditor\obj\Debug\MapEditor.exe
+D:\MapEditor\MapEditor\obj\Debug\MapEditor.pdb
